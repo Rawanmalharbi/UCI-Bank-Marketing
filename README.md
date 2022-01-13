@@ -55,11 +55,11 @@ The algorithms we used are k-nearest neighbours, Naïve Bayes , Decision Tree an
 
 The entire training dataset of 45211 records was split into 80/20 train. and the model’s assessment is conducted using essential measurements, such as accuracy and recall, F1 and ROC are also used. the result for each method is:
 
-Classifier	- Accuracy	- Precision	- recall	- F1	- ROC
-Decision Tree	- 0.86	- 0.43	- 0.53	- 0.48	- 0.72
-Random Forest	- 0.90	- 0.58	- 0.46	- 0.51	- 0.90
-Naive Bayes	- 0.85	- 0.39	- 0.55	- 0.46	- 0.80
-K-Nearest Neighbours	- 0.85	- 0.41	- 0.62	- 0.50	- 0.82
+#### Classifier	- Accuracy	- Precision	- recall	- F1	- ROC
+#### Decision Tree	- 0.86	- 0.43	- 0.53	- 0.48	- 0.72
+#### Random Forest	- 0.90	- 0.58	- 0.46	- 0.51	- 0.90
+#### Naive Bayes	- 0.85	- 0.39	- 0.55	- 0.46	- 0.80
+#### K-Nearest Neighbours	- 0.85	- 0.41	- 0.62	- 0.50	- 0.82
 
 #### We select Random forest because it has the highest ROC, accuracy , Precision and F1.
 
