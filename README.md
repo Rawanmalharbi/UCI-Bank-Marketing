@@ -7,7 +7,7 @@ The data is related with direct marketing campaigns of a banking institution. Th
 
 # Design
 
-In this Dataset from Kaggle we build a model to predict whether someone is going to make a deposit or not depending on some attributes. We will try to build 4 models using different algorithm Decision Tree, Random Forest, Naive Bayes, and K-Nearest Neighbors. After building each model we will evaluate them and compare which model are the best for our case. 
+ we build a model to predict whether someone is going to make a deposit or not depending on some attributes. We will try to build 4 models using different algorithm Decision Tree, Random Forest, Naive Bayes, and K-Nearest Neighbors. After building each model we will evaluate them and compare which model are the best for our case. 
 
 # Data
 
